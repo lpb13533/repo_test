@@ -1,0 +1,30 @@
+*   commit 2a2ef72527b7c23cddf5781b609089ce5f8b36b9 (HEAD, master)
+|\  Merge: f78904e d208028
+| | Author: lpb13533 <axel.wilson@diamond.ac.uk>
+| | Date:   Tue Jan 17 16:29:18 2017 +0000
+| | 
+| |     Merge branch 'mybranch'
+| |   
+| * commit d2080286c4842ec3ec5e6bba495c8a0382250bf0 (origin/mybranch, mybranch)
+| | Author: lpb13533 <axel.wilson@diamond.ac.uk>
+| | Date:   Tue Jan 17 16:24:09 2017 +0000
+| | 
+| |     created a new branch
+| |   
+* | commit f78904ef4785bfb0c9d05c5c4c7e051265619bac (origin/master)
+|/  Author: lpb13533 <axel.wilson@diamond.ac.uk>
+|   Date:   Tue Jan 17 16:28:10 2017 +0000
+|   
+|       more files for master branch
+|  
+* commit afb456b5ce40ee78b53e3b000bebaa09f38c12ff
+| Author: lpb13533 <axel.wilson@diamond.ac.uk>
+| Date:   Tue Jan 17 16:21:15 2017 +0000
+| 
+|     added more files
+|  
+* commit 6724703e13d2a2b04eee47d0c643973b547d4ae7
+  Author: lpb13533 <axel.wilson@diamond.ac.uk>
+  Date:   Tue Jan 17 16:11:53 2017 +0000
+  
+      first commit custom
